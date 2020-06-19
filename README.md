@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Desafio Módulo 1: Conceitos do Node.js
+  Desafio Módulo 1: Conceitos do React.js
 </h3>
 
 <p align="center">
